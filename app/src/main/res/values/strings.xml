@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jokesy</string>
+    <string name="setup">Setup</string>
+    <string name="punchline">Punchline</string>
+    <string name="imgprevious">previous</string>
+    <string name="previous">Previous</string>
+    <string name="cardview">Cardview</string>
+    <string name="next">Next</string>
+    <string name="imgnext">Next</string>
+    <string name="punch">Punch -</string>
+    <string name="setup1">Setup -</string>
+    <string name="jokes">JOKES</string>
+    <string name="share">SHARE</string>
+</resources>
